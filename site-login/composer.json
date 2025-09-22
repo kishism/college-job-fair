@@ -1,0 +1,13 @@
+{
+    "name": "user/site-login",
+    "authors": [
+        {
+            "name": "kishism",
+            "email": "morrg25@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9",
+        "mongodb/mongodb": "^2.1"
+    }
+}

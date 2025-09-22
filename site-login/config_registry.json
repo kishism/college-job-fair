@@ -1,0 +1,13 @@
+{
+    "active": "default_config",
+    "configs": {
+        "default_config": {
+            "filename": "default_config.php",
+            "saved_at": "2025-08-16 12:00:00"
+        },
+        "second_config": {
+            "filename": "second_config.php",
+            "saved_at": "2025-08-16 17:38:00"
+        }
+    }
+}

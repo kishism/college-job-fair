@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Composer dependencies
+site-login/vendor/
+composer.phar
+
+# Sensitive configs
+site-login/configs/*.php
+user-data/*.json
+
+# Logs and cache
+*.log
+last_saved_time.txt
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
